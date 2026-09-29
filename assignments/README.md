@@ -1,1 +1,2 @@
-This is the folder that you will store your assignments in. See python notebook for details.
+Assignment 1
+9/29/2026
